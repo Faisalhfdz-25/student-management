@@ -26,7 +26,7 @@ Welcome to the **Student Management System** built using Laravel, Inertia.js, an
 
 This project leverages the power of some of the best tools in web development:
 
-- **Laravel 10.x**: The robust and elegant PHP framework for the backend.
+- **Laravel 11.x**: The robust and elegant PHP framework for the backend.
 - **Inertia.js**: Bridges the gap between server-side and client-side frameworks, providing a smooth SPA experience without complex frontend routing.
 - **Vue.js 3.x**: The progressive JavaScript framework for building modern, reactive user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for building sleek and responsive designs.
@@ -38,7 +38,7 @@ Follow these steps to get the project up and running locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/student-management.git
+   git clone https://github.com/Faisalhfdz-25/student-management.git
    cd student-management
    ```
 
