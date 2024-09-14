@@ -1,12 +1,5 @@
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/laravel-10.x-red" alt="Laravel 10.x">
-<img src="https://img.shields.io/badge/vue-3.x-brightgreen" alt="Vue.js 3.x">
-<img src="https://img.shields.io/badge/inertia-0.10.0-blue" alt="Inertia.js">
-<img src="https://img.shields.io/github/license/your-username/student-management" alt="License">
-</p>
+<p align="center"> <a href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="150" alt="Laravel Logo"> </a> &nbsp;&nbsp;&nbsp; <a href="https://inertiajs.com" target="_blank"> <img src="https://raw.githubusercontent.com/inertiajs/inertia/master/.github/inertia-logo.png" width="150" alt="Inertia.js Logo"> </a> &nbsp;&nbsp;&nbsp; <a href="https://vuejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="150" alt="Vue.js Logo"> </a> </p> <p align="center"> <img src="https://img.shields.io/badge/laravel-10.x-red" alt="Laravel 10.x"> <img src="https://img.shields.io/badge/vue-3.x-brightgreen" alt="Vue.js 3.x"> <img src="https://img.shields.io/badge/inertia-0.10.0-blue" alt="Inertia.js"> <img src="https://img.shields.io/github/license/your-username/student-management" alt="License"> </p>
 
 # Student Management System
 
